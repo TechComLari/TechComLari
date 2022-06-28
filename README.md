@@ -3,7 +3,6 @@
 - 🔭 Me desenvolvendo como backend
 - 🌱 Aparendendo Nodejs, JavaScript, MySQL
 
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=techcomlari&show_icons=true&count_private=true&hide_border=true&title_color=7816EE&icon_color=00bfbf&text_color=C016EE&bg_color=00000000" alt="Larissa Soares github stats" /> 
   
@@ -26,9 +25,5 @@
 <div align="center">
   
   ![Snake animation](https://github.com/techcomlari/techcomlari/blob/output/github-contribution-grid-snake.svg)
-  
+   <img width="75" src="https://user-images.githubusercontent.com/92824872/176094678-9649daef-19fc-43c1-8ecb-259f14edc793.png">
 </div>
-
-
-
-
