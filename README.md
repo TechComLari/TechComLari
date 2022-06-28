@@ -24,6 +24,5 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/techcomlari/techcomlari/blob/output/github-contribution-grid-snake.svg)
-   <img width="75" src="https://user-images.githubusercontent.com/92824872/176094678-9649daef-19fc-43c1-8ecb-259f14edc793.png">
+  ![Snake animation](https://github.com/techcomlari/techcomlari/blob/output/github-contribution-grid-snake.svg) <img width="75" src="https://user-images.githubusercontent.com/92824872/176094678-9649daef-19fc-43c1-8ecb-259f14edc793.png">
 </div>
