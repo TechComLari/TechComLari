@@ -4,9 +4,9 @@
 - 🌱 Aparendendo Nodejs, JavaScript, MySQL
 
 <div align="center">  
-  <img width="200" src="https://github-readme-stats.vercel.app/api?username=techcomlari&show_icons=true&count_private=true&hide_border=true&title_color=7816EE&icon_color=00bfbf&text_color=C016EE&bg_color=00000000" alt="Larissa Soares github stats" /> 
+  <img width="200" src="https://github-readme-stats.vercel.app/api?username=techcomlari&show_icons=true&count_private=true&hide_border=true&title_color=9370DB&icon_color=00bfbf&text_color=DA70D6&bg_color=00000000" alt="Larissa Soares github stats" /> 
   
-  <img width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techcomlari&layout=compact&hide_border=true&title_color=7816EE&text_color=C016EE&bg_color=00000000" />
+  <img width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techcomlari&layout=compact&hide_border=true&title_color=9370DB&text_color=DA70D6&bg_color=00000000" />
 </div>
 
 <div align="center" valign="top"><br>
