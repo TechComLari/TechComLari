@@ -1,7 +1,7 @@
 ### Oi! Eu sou Larissa Soares 
 
 - 🔭 Me desenvolvendo como backend
-- 🌱 Aparendendo Nodejs, JavaScript, MySQL
+- 🌱 JAVA, SpringBoot
 
 <div align="center">  
 
